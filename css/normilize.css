@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: 'Questrial', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.container {
+  padding: 24px;
+  min-height: 100;
+  max-width: 1200px;
+}
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+button {
+  cursor: pointer;
+  background: none;
+  color: inherit;
+  border: none;
+}
